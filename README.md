@@ -24,3 +24,11 @@ Terminal:  pts/1
 Host:
 Started:  1768374935
 ```
+
+macOS 26.2 - arm64
+```
+User:  macbert
+Terminal:  ttys000
+Host:
+Started:  1768375108
+```
