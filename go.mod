@@ -4,7 +4,10 @@ replace github.com/shirou/gopsutil/v4 => /tmp/gopsutil-fork
 
 go 1.24.2
 
-require github.com/shirou/gopsutil/v4 v4.0.0-00010101000000-000000000000
+require (
+	github.com/godbus/dbus/v5 v5.2.2
+	github.com/shirou/gopsutil/v4 v4.0.0-00010101000000-000000000000
+)
 
 require (
 	github.com/ebitengine/purego v0.9.1 // indirect
