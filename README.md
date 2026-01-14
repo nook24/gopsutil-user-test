@@ -32,3 +32,12 @@ Terminal:  ttys000
 Host:
 Started:  1768375108
 ```
+
+macOS 15.6.1 - Intel
+
+```
+User:  nook24
+Terminal:  ttys005
+Host:  
+Started:  1758904387
+```
